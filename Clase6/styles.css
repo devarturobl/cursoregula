@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color: #171515;
+    font-family: "Bitcount Grid Double", system-ui;
+    font-style: normal;
+}
+
+h2{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+
+h3{
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    color: #171515;
+}
+
+main{
+    margin-top: 20px;
+    margin-left: 60px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.image-container{
+    display: flex;
+}
+
+.image-container img{
+    width: 100%;
+}
+
+article{
+    background-color: aliceblue;
+    border: 1px solid #171515;
+    border-radius: 10px;
+    padding: 16px;
+    box-shadow: 0 18px 18px rgba(15, 2, 113, 0.922);
+}
+

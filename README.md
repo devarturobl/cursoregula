@@ -10,3 +10,6 @@ Instalaciones:
     3.- Extensiones: js snippet, Gemini Code Assist, Js Runner, Live Server, Prettier - Code formatter y vscode-icons
 
 Recurso para el curso: https://retosdeprogramacion.com/ejercicios/
+Recurso para el curso: https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array
+Recurso Api: https://rickandmortyapi.com/api/character
+
